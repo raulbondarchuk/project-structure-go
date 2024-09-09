@@ -8,7 +8,7 @@
 
 ## 🔗 Useful Links
 
-- [More info about project structure Golang]((https://github.com/golang-standards/project-layout/blob/master/README.md))
+[More info about project structure Golang](https://github.com/golang-standards/project-layout/blob/master/README.md)
 
 ---
 
