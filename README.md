@@ -2,9 +2,9 @@
 
 ## 🌐 Select Language | Elige idioma | Выберите язык
 
-- [English](._readme/README-EN.md)
-- [Español](._readme/README-ES.md)
-- [Русский](._readme/README-RU.md)
+- [English](./_readme/README-EN.md)
+- [Español](./_readme/README-ES.md)
+- [Русский](./_readme/README-RU.md)
 
 ## 🔗 Useful Links
 
