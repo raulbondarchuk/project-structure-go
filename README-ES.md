@@ -1,6 +1,5 @@
-# Project Structure Go
 
-## Estructura Completa del Proyecto
+# Estructura Completa del Proyecto Golang
 
 ![Estructura del Proyecto](https://github.com/user-attachments/assets/0d39681e-cb80-4f27-8161-4d291fe1611d)
 
