@@ -1,0 +1,9 @@
+[server]
+port = 1337
+
+[database]
+user="root"
+pass="********"
+host="127.0.0.1"
+port ="3307"
+database="database"
