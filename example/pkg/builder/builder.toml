@@ -1,7 +1,0 @@
-# configs/builder.toml
-
-[build]
-output_dir = "./pkg/builder/builds"
-linux_output = "bigdata.linux"
-windows_output = "bigdata.exe"
-source_file = "./cmd/app/main.go"
